@@ -1,0 +1,33 @@
+a
+{ 
+    color:#000000;
+    background-color:#00ccff;
+    padding:25px;
+    text-decoration:none;
+    font-size:1.5em;
+}
+a:hover
+}
+   color:#ffffff;
+   background-color#ffcc00;
+   padding:25px;
+   text-decoration:none;
+   font-size:1.5em;
+}
+a:focus
+{
+     color:#0066ff;
+     background-color:#000066;
+     padding:25px;
+     text-decoration:none;
+     font-size:1.5em;
+}
+a: Active
+{
+    color:#ff0000;
+    background-color:#000000;
+    padding:25px;
+    text-decoration: none;
+    font-size:1.5em;
+}
+<div style="padding: 20px; color: white;background-color: black; font-size: 1.4em;"> design by: laxit solanki</div>
